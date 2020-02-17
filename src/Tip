@@ -1,3 +1,10 @@
+git init
+git . add
+git commit -m "message"
+git remote add origin https://github.com/Ostin-lee/DesignPattern.git
+it push origin master
+
+
 외부에서 클래스의 방향을 결정하는 패턴 3개
 
 Command -> 1:1
